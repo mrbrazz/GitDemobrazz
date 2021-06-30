@@ -3,7 +3,7 @@ import Foundation
 //: # Lesson 5
 
 //: ## Функции
-
+let x = OK test nash
 /*:
  
     func nameOfFunction() {
